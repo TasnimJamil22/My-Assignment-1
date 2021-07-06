@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+} 
+.half-width{
+    width:50%;
+      
+}
+.half-width img{
+    width:90%;
+}
+section{
+    display:flex;
+    margin:80px;
+}
+.Another-color{
+    color:rgb(201, 67, 183);
+}
+h1{
+    font-size: 50px;
+    color:rgb(103, 103, 112);
+
+}
+.button{
+    background-image:linear-gradient(rgba(177, 53, 150, 0.472),rgb(209, 72, 198));
+    padding: 10px 40px;
+    border-radius: 15px ;
+    text-decoration: none;
+    color:white;
+}
+.paragraph{
+    color:rgb(115, 113, 121);
+    text-align: justify;
+    padding-right: 90px;
+}
+/*section2 starts here......*/
+
+ .section2{
+    background-image: url("bg1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width:90%;
+     
+}
+h2{
+    padding:130px 40px 0 90px;
+    font-size: 50px;
+    color:cadetblue;
+    padding-right: 0px;
+    
+}
+.sec2-div{
+    width:50%;
+}
