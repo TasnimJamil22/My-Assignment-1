@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin:80px;
 } 
 .half-width{
     width:50%;
@@ -10,7 +11,7 @@ body{
 }
 section{
     display:flex;
-    margin:80px;
+    
 }
 .Another-color{
     color:rgb(201, 67, 183);
@@ -38,8 +39,10 @@ h1{
     background-image: url("bg1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    width:90%;
-    height:550px;
+    
+     
+    margin-left: 0;
+    margin-left: 0;
      
      
      
@@ -52,22 +55,20 @@ h1{
     
 }
 .sec2-div{ 
-    width:80%;
+    width:50%;
     
     
 }
 .sec2-div img{
-    
-     
-     
-     
+    margin-left: 0%;
+    margin-right: 0%;
 }
-
  
-
 #alone{
      
     text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
     margin-left: auto;
     margin-right: auto;
     height:100px;
@@ -84,6 +85,7 @@ h1{
     width:90%;
 }
 .recipies{
+    margin-top:40px;
     width:30%;
     margin-left: 3%;
     margin-right: 3%;
@@ -101,4 +103,18 @@ h1{
 .sec3-paragraphs{
     font-size: 15px;
 }
+#last-div{
+    box-shadow:10px 10px 40px rgb(209, 117, 197); 
+    height:180px;
+    width:600PX;
+    border-radius:20px;
+    margin: 140px auto;
+    padding: 10px 20px;
+    text-align: center;
+    
+}
+#font{
+    font-size:40px;
+}
+
      
