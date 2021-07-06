@@ -39,9 +39,8 @@ h1{
     background-repeat: no-repeat;
     background-size: 100%;
     width:90%;
-    position: absolute;
-    padding-bottom: 400px;
-    
+     
+     
      
 }
  #sec2-h2{
@@ -56,26 +55,46 @@ h1{
     
 }
 .sec2-div img{
-    position:  relative;
-    margin-top: 62px;
+    
+    margin-top: 60px;
 }
 
- /*section3 starts here....*/
+ 
 
-#sec3-div{
-    padding-top: 800px;
+#alone{
+     
     text-align: center;
-    display: block;
     margin-left: auto;
     margin-right: auto;
-
+    height:100px;
+    width:900px;
+     
 }
+/*section3 starts here....*/
+
 #sec3-flex{
     display:flex;
-    padding-top: 1400px;
-
+    
 }
 #sec3-flex img{
-    width:50%;
+    width:90%;
+}
+.recipies{
+    width:30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 1%;
+    text-align: left;
+     
+      
+     
+    box-shadow: 10px 10px 40px rgb(209, 205, 205);
+    border-radius: 30px;
+     
+}
+.sec3-paragraphs{
+    font-size: 15px;
 }
      
