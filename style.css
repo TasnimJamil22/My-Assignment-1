@@ -39,6 +39,9 @@ h1{
     background-repeat: no-repeat;
     background-size: 100%;
     width:90%;
+    position: absolute;
+    padding-bottom: 400px;
+    
      
 }
  #sec2-h2{
@@ -50,10 +53,18 @@ h1{
 }
 .sec2-div{
     width:50%;
+    
 }
- 
+.sec2-div img{
+    position:  relative;
+    margin-top: 62px;
+}
+
+ /*section3 starts here....*/
 
 #sec3-div{
+    padding-top: 800px;
+
     text-align: center;
      display: block;
      margin-left: auto;
