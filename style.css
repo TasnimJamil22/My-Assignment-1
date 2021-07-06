@@ -24,7 +24,7 @@ section{
 .Another-color{
     color:rgb(201, 67, 183);
 }
-h1{
+#h1{
     font-size: 60px;
     color:rgb(103, 103, 112);
 
@@ -148,5 +148,29 @@ footer{
      
     
 }
+
+#likes{
+    display: flex;
+    width: 900px;
+    margin: 70px auto;
+    box-shadow:  10px 10px 40px rgb(189, 179, 187);
+    border-radius: 20px;
+     
+     
+}
+.numbers{
+    font-size: 20px;
+    text-align: center;
+    margin:0 auto;
+     
+
+}
+     
+.p{
+    font-size: 20px;
+     
+}
+ 
+
  
 
