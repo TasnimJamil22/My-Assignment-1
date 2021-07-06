@@ -39,6 +39,7 @@ h1{
     background-repeat: no-repeat;
     background-size: 100%;
     width:90%;
+    height:550px;
      
      
      
@@ -51,12 +52,13 @@ h1{
     
 }
 .sec2-div{
-    width:50%;
+    width:90%;
     
 }
 .sec2-div img{
     
-    margin-top: 60px;
+    margin-top: 40px;
+    width:70%;
 }
 
  
