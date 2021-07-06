@@ -37,7 +37,7 @@ h1{
  .section2{
     background-image: url("bg1.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     width:90%;
     height:550px;
      
@@ -51,14 +51,16 @@ h1{
     padding-right: 0px;
     
 }
-.sec2-div{
-    width:90%;
+.sec2-div{ 
+    width:80%;
+    
     
 }
 .sec2-div img{
     
-    margin-top: 40px;
-    width:70%;
+     
+     
+     
 }
 
  
